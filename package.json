@@ -4,7 +4,8 @@
   "description": "CSS Frameworks",
   "main": "index.js",
   "dependencies": {
-    "browser-sync": "^2.27.7"
+    "browser-sync": "^2.27.7",
+    "bulma": "^0.9.3"
   },
   "devDependencies": {},
   "scripts": {
