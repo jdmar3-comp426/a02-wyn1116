@@ -1,0 +1,24 @@
+{
+  "name": "a02-wyn1116",
+  "version": "1.0.0",
+  "description": "CSS Frameworks",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "bulma": "^0.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-wyn1116.git"
+  },
+  "author": "Wyn Booth",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-wyn1116/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-wyn1116#readme"
+}
